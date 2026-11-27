@@ -1,0 +1,26 @@
+body {
+    background: #190b12;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1 {
+    color: pink;
+    font-size: 50px;
+}
+
+p {
+    color: #ffb6c1;
+    font-size: 20px;
+}
+
+button {
+    background: #e75480;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 30px;
+    cursor: pointer;
+}
